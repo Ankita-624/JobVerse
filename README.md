@@ -50,51 +50,45 @@
 
 ---
 
-### 🔃 Installation & Setup
+### Installation
 
-1. **Clone the repository**
-   ```bash
+1. Clone the repository to your local machine:
+    ```bash
    git clone https://github.com/Ankita-624/JobVerse.git
-   cd JobVerse
-
-     2. **Change into the frontend directory:**
-    
-bash
+    ```
+2. Change into the frontend directory:
+    ```bash
     cd client
+    ```
 
-
-3. **Install the frontend dependencies:**
-    
-bash
+3. Install the frontend dependencies:
+    ```bash
     npm install
+    ```
 
-
-4. **Run the development server:**
-    
-bash
+4. Run the development server:
+    ```bash
     npm run dev
+    ```
 
-
-5. **Return to the main directory and change into the backend directory:**
-    
-bash
+5. Return to the main directory and change into the backend directory:
+    ```bash
     cd ..
     cd server
+    ```
 
-
-6. **Install the backend dependencies:**
-    
-bash
+6. Install the backend dependencies:
+    ```bash
     npm install
+    ```
 
-
-7. **Run the development server:**
-    
-bash
+7. Run the development server:
+    ```bash
     nodemon server.js
-
-    👩‍💻 Developed By
+    ```
+👩‍💻 Author
 Ankita Gouda
 💼 Full-Stack Developer
 
-Originally inspired by the open-source idea of a job portal, but redesigned, restructured, and customized by Ankita Gouda for educational and personal portfolio use.
+Note: This is a fully customized and rebranded version of a job portal project, structured and styled by Ankita Gouda for personal portfolio and learning purposes.
+ 
