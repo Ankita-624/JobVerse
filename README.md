@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [Visit Website](https://jobverse.vercel.app/)
+🌐 [Visit Website](https://job-verse-seven.vercel.app/)
 
 ---
 
